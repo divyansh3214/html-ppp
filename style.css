@@ -1,0 +1,15 @@
+h1{
+    color:rgba(174, 26, 26, 0.767);
+}
+html{
+    background:rgb(0, 183, 255);
+}
+hr{
+    color:green;
+}
+#main{
+    color:rgb(232, 232, 21);
+}
+.red-text{
+    color:blue;
+}
